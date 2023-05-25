@@ -1,0 +1,17 @@
+#add notebooks to gitignore
+
+*.ipynb
+
+outputs/
+weights/
+
+#add __pycache__ to gitignore
+
+__pycache__/
+*.py[cod]
+
+
+#ignore weights files
+
+*.pth
+*.pt
