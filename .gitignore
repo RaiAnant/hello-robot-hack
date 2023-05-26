@@ -17,4 +17,5 @@ __pycache__/
 *.pt
 
 
+wandb/
 data/Benchmarking_Export/Door_Opening/CDS_Home/
