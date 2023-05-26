@@ -1,6 +1,5 @@
 #add notebooks to gitignore
 
-*.ipynb
 
 outputs/
 weights/
@@ -19,3 +18,4 @@ __pycache__/
 
 wandb/
 data/Benchmarking_Export/Door_Opening/CDS_Home/
+.ipynb_checkpoints/
